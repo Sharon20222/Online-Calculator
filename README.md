@@ -1,24 +1,20 @@
-## Online Calculator
+# Online Calculator
 
 ## Description
-This is a simple online calculator web application built using HTML, CSS, and JavaScript.
+This is a simple online calculator web application built using HTML.
 
 ## Setup
 To run this project locally, follow these steps:
 
-1. Clone the repository to your local machine:
-   \`\`\`bash
-   git clone https://github.com/[your-username]/online-calculator.git
-   \`\`\`
+1. Download the HTML file: Download the `online_calculator.html` file from the GitHub repository to your local machine.
 
-2. Open the \`index.html\` file in your web browser.
+2. Open in a web browser: Open the downloaded `online_calculator.html` file in a web browser.
 
-*Note: If you want to include your own screenshot, create a \`screenshots\` folder in your project directory and place a screenshot of your calculator interface named \`calculator.png\` inside it.*
-
-## Technologies Used
-- HTML
-- CSS
-- JavaScript
+## Execution
+- Once the HTML file is opened in the web browser, the calculator interface will be displayed.
+- Use the buttons to perform calculations such as addition, subtruction, division and multiplication.
+- Click on the equal sign to see the results. This calculator works the same way any online basic calculator works. 
 
 ## Screenshot
 ![Calculator Screenshot](screenshots/calculator_screenshot.png)
+
