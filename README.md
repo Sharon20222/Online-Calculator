@@ -20,3 +20,5 @@ To run this project locally, follow these steps:
 - CSS
 - JavaScript
 
+## Screenshot
+![Calculator Screenshot](screenshots/calculator_screenshot.png)
