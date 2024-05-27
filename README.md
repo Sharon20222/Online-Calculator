@@ -1,12 +1,15 @@
 # Online Calculator
 
 ## Description
-This is a simple online calculator web application built using HTML.
+This is a simple online calculator web application built using HTML, CSS, and JavaScript.
+
 
 ## Setup
 To run this project locally, follow these steps:
 
-1. Download the HTML file: Download the `online_calculator.html` file from the GitHub repository to your local machine.
+1. Download the HTML file: Download the `online_calculator.html` file from the GitHub repository to your local machine.Or Clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/[your-username]/online-calculator.git
 
 2. Open in a web browser: Open the downloaded `online_calculator.html` file in a web browser.
 
