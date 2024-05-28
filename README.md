@@ -46,6 +46,8 @@ To run this project locally, follow these steps:
 
 ### Screenshot of Execution Results
 - The screenshot below shows the calculator interface in action:
+
+![Calculator Screenshot](screenshots/input1.png)
 ![Calculator Screenshot](screenshots/output1.png)
 
 ## Keywords
