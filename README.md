@@ -30,7 +30,9 @@ To run this project locally, follow these steps:
 ![Calculator Screenshot](screenshots/calculator_screenshot.png)
 
 ## Google Slides Presentation
-[View the Online Calculator Google Slides Presentation](https://docs.google.com/presentation/d/1uHJIusP8E1GiwmeQ2wogHCyZCg7DISMlvGCIloBYWOE/edit?usp=sharing)
+### Level 1: Javascript
+#### Level 2: Project
+- [URL of Online Calculator Google Slides Presentation](https://docs.google.com/presentation/d/1uHJIusP8E1GiwmeQ2wogHCyZCg7DISMlvGCIloBYWOE/edit?usp=sharing)
 
 ## Process of Making the Project Work
 ### Set Up the Environment
