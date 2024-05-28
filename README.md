@@ -9,7 +9,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository**: Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/sharon20222/online-calculator.git
+   git clone https://github.com/sharon20222/online_calculator.git
    ```
 
 2. Download the HTML file: Alternatively, you can download the `online_calculator.html` file from the GitHub repository to your local machine.
