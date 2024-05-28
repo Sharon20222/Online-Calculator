@@ -46,7 +46,7 @@ To run this project locally, follow these steps:
 
 ### Screenshot of Execution Results
 - The screenshot below shows the calculator interface in action:
-![Calculator Screenshot](screenshots/calculator_screenshot.png)
+![Calculator Screenshot](screenshots/output1.png)
 
 ## Keywords
 - Online Calculator
