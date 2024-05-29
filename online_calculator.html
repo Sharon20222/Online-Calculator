@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Online Calculator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Calculator container -->
+    <div class="calculator">
+        <!-- Table layout for the calculator -->
+        <table>
+            <!-- Screen row -->
+            <tr>
+                <td colspan="5"><input type="text" id="screen" readonly></td>
+            </tr>
+            <!-- First row of buttons -->
+            <tr>
+                <td colspan="2"><button type="button" class="wide-button" onclick="clearScreen()">Clear</button></td>
+                <td><button type="button" onclick="calculateResult()">=</button></td>
+                <td><button type="button" onclick="appendToScreen('(')">(</button></td>
+                <td><button type="button" onclick="appendToScreen(')')">)</button></td>
+            </tr>
+            <!-- Second row of buttons -->
+            <tr>
+                <td><button type="button" onclick="appendToScreen('*')">*</button></td>
+                <td><button type="button" onclick="appendToScreen('/')">/</button></td>
+                <td><button type="button" onclick="appendToScreen('+')">+</button></td>
+                <td><button type="button" onclick="appendToScreen('-')">-</button></td>
+                <td><button type="button" onclick="appendToScreen('.')">.</button></td>
+            </tr>
+            <!-- Third row of buttons -->
+            <tr>
+                <td><button type="button" onclick="appendToScreen('1')">1</button></td>
+                <td><button type="button" onclick="appendToScreen('2')">2</button></td>
+                <td><button type="button" onclick="appendToScreen('3')">3</button></td>
+                <td><button type="button" onclick="appendToScreen('4')">4</button></td>
+                <td><button type="button" onclick="appendToScreen('5')">5</button></td>
+            </tr>
+            <!-- Fourth row of buttons -->
+            <tr>
+                <td><button type="button" onclick="appendToScreen('6')">6</button></td>
+                <td><button type="button" onclick="appendToScreen('7')">7</button></td>
+                <td><button type="button" onclick="appendToScreen('8')">8</button></td>
+                <td><button type="button" onclick="appendToScreen('9')">9</button></td>
+                <td><button type="button" onclick="appendToScreen('0')">0</button></td>
+            </tr>
+        </table>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
